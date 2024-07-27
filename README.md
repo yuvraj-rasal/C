@@ -54,11 +54,15 @@ Here are the dishes available in the hotel:
 5. Misal Pav: 70
 6. Pithla Bhakri: 140
 7. Sabudana Khichdi: 50
+
 ==================================================
 
 Enter your order number: 1
+
 Enter the quantity you want to order: 2
+
 Total: 360.00
+
 
 ***** Please visit again! *****
 
